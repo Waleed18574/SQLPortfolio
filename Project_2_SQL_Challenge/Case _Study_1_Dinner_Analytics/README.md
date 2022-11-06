@@ -1,4 +1,6 @@
-![](assets/dinner_shop.png)
+![logo](assets/dinner_shop.png)
+
+![data_model](assets/data_model.png)
 
 ## Problem Statement
 ### The owner of a dinner restaurant wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and which menu items are their favourite.
@@ -12,7 +14,7 @@
 ### 2. A customer may buy mroe than one meal in the same day (invited his/her firend over diner)
 
 ## ERD
-![](assets/EDR.PNG)
+
 
 ### The data set contains the following 3 tables which you may refer to the relationship diagram below to understand the connection.
 
