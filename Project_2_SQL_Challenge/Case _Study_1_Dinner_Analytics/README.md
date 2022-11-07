@@ -1,6 +1,6 @@
-![](assets/dinner_shop.png)
+![dinner_shop](assets/dinner_shop.png)
 
-![](assets/EDR1.png)
+![data_model](assets/data_model.png)
 
 ## Problem Statement
 ### The owner of a dinner restaurant wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and which menu items are their favourite.
