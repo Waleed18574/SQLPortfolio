@@ -1,4 +1,6 @@
 ![](assets/logo.png)
+![](assets/ERD.png)
+
 # Airbnb Data Analytics Project Summary
 ## In this project, I:
 ### - Connected Python to my local PostgreSQl server.

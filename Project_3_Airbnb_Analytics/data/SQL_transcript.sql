@@ -1,3 +1,5 @@
+select * FROM airbnb_search_details;
+
 DROP TABLE IF EXISTS airbnb_search_details;
 CREATE TABLE airbnb_search_details (
 	id INT PRIMARY KEY,
