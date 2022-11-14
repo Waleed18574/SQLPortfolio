@@ -1,1 +1,0 @@
-http://www.surroundtech.com/demo-the-northwind-traders-apps-built-with-accelerator-in-15-minutes#gsc.tab=0
