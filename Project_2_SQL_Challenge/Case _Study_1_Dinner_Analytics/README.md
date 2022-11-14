@@ -1,4 +1,4 @@
-![dinner_shop](assets/dinner_shop.png)
+![dinner_shop](assets/restuarant.png)
 
 ![data_model](assets/data_model.png)
 
