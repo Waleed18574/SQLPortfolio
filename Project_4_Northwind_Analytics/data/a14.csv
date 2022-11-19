@@ -1,0 +1,92 @@
+,customer_id,company_name,region
+0,OLDWO,Old World Delicatessen,AK
+1,BOTTM,Bottom-Dollar Markets,BC
+2,LAUGB,Laughing Bacchus Wine Cellars,BC
+3,LETSS,Let's Stop N Shop,CA
+4,HUNGO,Hungry Owl All-Night Grocers,Co. Cork
+5,GROSR,GROSELLA-Restaurante,DF
+6,SAVEA,Save-a-lot Markets,ID
+7,ISLAT,Island Trading,Isle of Wight
+8,LILAS,LILA-Supermercado,Lara
+9,THECR,The Cracker Box,MT
+10,RATTC,Rattlesnake Canyon Grocery,NM
+11,LINOD,LINO-Delicateses,Nueva Esparta
+12,GREAL,Great Lakes Food Market,OR
+13,HUNGC,Hungry Coyote Import Store,OR
+14,LONEP,Lonesome Pine Restaurant,OR
+15,THEBI,The Big Cheese,OR
+16,MEREP,Mère Paillarde,Québec
+17,HANAR,Hanari Carnes,RJ
+18,QUEDE,Que Delícia,RJ
+19,RICAR,Ricardo Adocicados,RJ
+20,COMMI,Comércio Mineiro,SP
+21,FAMIA,Familia Arquibaldo,SP
+22,GOURL,Gourmet Lanchonetes,SP
+23,QUEEN,Queen Cozinha,SP
+24,TRADH,Tradição Hipermercados,SP
+25,WELLI,Wellington Importadora,SP
+26,HILAA,HILARIÓN-Abastos,Táchira
+27,LAZYK,Lazy K Kountry Store,WA
+28,TRAIH,Trail's Head Gourmet Provisioners,WA
+29,WHITC,White Clover Markets,WA
+30,SPLIR,Split Rail Beer & Ale,WY
+31,ALFLI,Alfreds Futterkiste,
+32,ANATR,Ana Trujillo Emparedados y helados,
+33,ANTON,Antonio Moreno Taquería,
+34,AROUT,Around the Horn,
+35,BERGS,Berglunds snabbköp,
+36,BLAUS,Blauer See Delikatessen,
+37,BLONP,Blondel père et fils,
+38,BOLID,Bólido Comidas preparadas,
+39,BONAP,Bon app',
+40,BSBEV,B's Beverages,
+41,CACTU,Cactus Comidas para llevar,
+42,CENTC,Centro comercial Moctezuma,
+43,CHOPS,Chop-suey Chinese,
+44,CONSH,Consolidated Holdings,
+45,DRACD,Drachenblut Delikatessen,
+46,DUMON,Du monde entier,
+47,EASTC,Eastern Connection,
+48,ERNSH,Ernst Handel,
+49,FISSA,FISSA Fabrica Inter. Salchichas S.A.,
+50,FOLIG,Folies gourmandes,
+51,FOLKO,Folk och fä HB,
+52,FRANK,Frankenversand,
+53,FRANR,France restauration,
+54,FRANS,Franchi S.p.A.,
+55,FURIB,Furia Bacalhau e Frutos do Mar,
+56,GALED,Galería del gastrónomo,
+57,GODOS,Godos Cocina Típica,
+58,KOENE,Königlich Essen,
+59,LACOR,La corne d'abondance,
+60,LAMAI,La maison d'Asie,
+61,LEHMS,Lehmanns Marktstand,
+62,MAGAA,Magazzini Alimentari Riuniti,
+63,MAISD,Maison Dewey,
+64,MORGK,Morgenstern Gesundkost,
+65,NORTS,North/South,
+66,OCEAN,Océano Atlántico Ltda.,
+67,OTTIK,Ottilies Käseladen,
+68,PARIS,Paris spécialités,
+69,PERIC,Pericles Comidas clásicas,
+70,PICCO,Piccolo und mehr,
+71,PRINI,Princesa Isabel Vinhos,
+72,QUICK,QUICK-Stop,
+73,RANCH,Rancho grande,
+74,REGGC,Reggiani Caseifici,
+75,RICSU,Richter Supermarkt,
+76,ROMEY,Romero y tomillo,
+77,SANTG,Santé Gourmet,
+78,SEVES,Seven Seas Imports,
+79,SIMOB,Simons bistro,
+80,SPECD,Spécialités du monde,
+81,SUPRD,Suprêmes délices,
+82,TOMSP,Toms Spezialitäten,
+83,TORTU,Tortuga Restaurante,
+84,VAFFE,Vaffeljernet,
+85,VICTE,Victuailles en stock,
+86,VINET,Vins et alcools Chevalier,
+87,WANDK,Die Wandernde Kuh,
+88,WARTH,Wartian Herkku,
+89,WILMK,Wilman Kala,
+90,WOLZA,Wolski  Zajazd,
