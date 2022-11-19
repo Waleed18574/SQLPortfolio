@@ -1,4 +1,5 @@
 ![](assets/logo2.png)
+![](assets/ERD.PNG)
 # Northwind Analytics
 Northwind Traders is a fictitious company created by Microsoft for the purposes of demonstrating the database capabilities of Microsoft Access and then later for SQL 
 Server. Since then, it has also been used by numerous companies as a sample database to demonstrate how their development tools work. Northwind database consists of
