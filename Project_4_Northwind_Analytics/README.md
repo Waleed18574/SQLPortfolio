@@ -4,10 +4,11 @@
 Northwind Traders is a fictitious company created by Microsoft for the purposes of demonstrating the database capabilities of Microsoft Access and then later for SQL 
 Server. Since then, it has also been used by numerous companies as a sample database to demonstrate how their development tools work. Northwind database consists of
 8 tables which are Customers, Employees, Suppliers, Shippers, Categroies, Products, Orders and Order_details in resemblance of typlical supply chain company business.
-In this project, I used Northwind database to answer various business questions that may occur in real project.
+In this project, I used Northwind database to answer various business questions that may occur in real project. The time frame of the database is between 1994 and 1996,
+ however, the business questions and the querying methods are very relevant to the current business environment.
 
 The first stage of this project was data preparation. The data was initially in an Access database, however, when connected to Python using pyodbc library, the was a 
-descrepancy in the  column names between the retrieved SQL table and Access Graphic User Interface. TO avoid issues when joining tables, I saved the tables from Access
+descrepancy in the  column names between the retrieved SQL table and Access Graphic User Interface. To avoid issues when joining tables, I saved the tables from Access
 databaseto CSV  files, etablished new PostgreSQL database and tables, and populated the tables from the CSV files. The detailed steps are in "1-Northwind_Data_Preparation.ipynb" 
 notebook.
 
