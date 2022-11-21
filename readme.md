@@ -1,1 +1,1 @@
-### This reporsitory contains my SQL protfolio projects. If you are interested in doing business with me, kindly, contact me through LinkedIn on [Waleed](https://www.linkedin.com/in/waleedabdulla/)
+### This reporsitory contains my SQL protfolio projects, and its objective is to show some of my analytic skills. If you are interested in doing business with me or offering me a job, kindly, contact me through LinkedIn on [Waleed](https://www.linkedin.com/in/waleedabdulla/)
